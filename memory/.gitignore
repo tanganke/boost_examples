@@ -1,0 +1,6 @@
+scoped_ptr
+scoped_array
+shared_ptr
+weak_ptr
+make_shared
+shared_array
