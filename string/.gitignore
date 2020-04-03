@@ -4,6 +4,7 @@ to_lower_copy
 find_all
 trim
 split
-join
 iter_split
+join
+regex_match
 regex_search

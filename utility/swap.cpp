@@ -1,7 +1,7 @@
 #include <boost/swap.hpp>
 #include <cassert>
 
-int main(int argc, char const *argv[])
+int main()
 {
     int x=0,y=1;
     boost::swap(x,y);
