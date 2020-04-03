@@ -2,3 +2,8 @@ to_upper
 contains
 to_lower_copy
 find_all
+trim
+split
+join
+iter_split
+regex_search
